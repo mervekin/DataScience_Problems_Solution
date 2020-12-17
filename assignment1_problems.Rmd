@@ -1,0 +1,19 @@
+---
+title: "Assignmnet 1 Problems"
+---
+
+With using “starwars” tibble in dplyr package, please answer the following questions:
+
+1 . How many unique species per their homeworld are there?
+2. Which character(s) did play in the Star Wars movies most?
+3. According to the data available, what were the average height value and the average mass value across each species?
+4. Create a new data set by adding a new observation to this data. This observation should be based on your own character (your name or nickname, your weight and height, your homeworld, your starships etc). Note that you can pick one or more than one Star Wars films in which you played as a movie star.
+5. Calculate the body mass index (BMI) values (dividing the mass value in kg to the square of the height value in meter) for all observations and create a new data set including BMI values and the variables titled as name, mass, height, species, hair color, skin color, eye color, sex and gender.
+6. With using this new dataset, categorize the observations as underweight (BMI below 18.5), healthy (BMI between 18.5-24.99), overweight (BMI between 25.0-29.99) and obese (BMI above 30.0). Find the counts of these categories with respect to species.
+7. Plot the distribution of BMI according to sex and gender.
+
+
+
+
+
+
