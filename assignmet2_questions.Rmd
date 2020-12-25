@@ -1,0 +1,14 @@
+---
+title: "Assignment2- Questions"
+
+---
+
+Save the attached file (assignment2_data) as an Excel file (.csv, .xls or .xlsx format), then import this data to R. (You can supply an inline CSV file instead of importing, if you like).
+
+1.Take a sample of 100 observations from this data, and save this sample as a new data. Answer the following questions according to this new data.
+
+2.Calculate the mean sales’ values for each color.
+3.Calculate the mean sales’ values for each region.
+4.Identify the five highest sales’ value according to date, color and region separately.
+5.Identify the month in which the mean sales’ value is the highest.
+6.Plot the sales according to years
